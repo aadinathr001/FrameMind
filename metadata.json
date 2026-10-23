@@ -1,5 +1,5 @@
 {
-  "name": "NotebookQ - Video Research & Q&A",
+  "name": "FrameMind - Video Research & Q&A",
   "description": "An AI-powered video study notebook that extracts YouTube transcripts, generates structured chapter summaries, and provides timestamp-grounded Q&A across Ollama, Groq, Gemini, and OpenAI.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

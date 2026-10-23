@@ -1,6 +1,6 @@
 import { LLMConfig, ModelProvider } from '../types';
 
-const STORAGE_KEY = 'notebookq_llm_config';
+const STORAGE_KEY = 'frameMind_llm_config';
 
 export const DEFAULT_CONFIGS: Record<ModelProvider, { model: string; defaultBaseUrl?: string }> = {
   gemini: {

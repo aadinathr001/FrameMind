@@ -1,4 +1,4 @@
-# NotebookQ — YouTube Video Q&A & Study Notebook
+# FrameMind — YouTube Video Q&A & Study Notebook
 
 An AI-powered video research workspace that extracts transcripts from YouTube URLs, generates structured multi-level summaries (executive briefs, key takeaways, and chapter breakdowns), and enables interactive, timestamp-grounded Q&A with synchronized video playback across flexible AI model providers (**Ollama Local**, **Groq**, **Gemini**, and **OpenAI**).
 
@@ -180,7 +180,7 @@ npm run start
    ```bash
    ollama run llama3.2
    ```
-2. In the NotebookQ header, click the model button, select **Ollama (Local)**, and verify the connection.
+2. In the FrameMind header, click the model button, select **Ollama (Local)**, and verify the connection.
 
 ---
 
