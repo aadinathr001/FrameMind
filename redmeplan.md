@@ -11,7 +11,7 @@ An AI-powered video research workspace that extracts transcripts from YouTube UR
 │                      React 19 Frontend (Workspace)                      │
 │  ┌───────────────────────┐ ┌──────────────────────────────────────────┐ │
 │  │ URL Input & Ingestion │ │ Model Engine: Ollama / Groq / OpenAI /   │ │
-│  │ (Auto-fetch + Samples)│ │ Gemini (Config modal with Test Connection│ │
+│  │ (Auto-fetch + Samples)│ │ Gemini(Config modal with Test Connection)│ │
 │  └───────────┬───────────┘ └────────────────────┬─────────────────────┘ │
 │              │                                  │                       │
 │  ┌───────────▼───────────┐         ┌────────────▼───────────┐           │

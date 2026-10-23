@@ -778,7 +778,7 @@ async function startServer() {
   }
 
   app.listen(Number(PORT), '0.0.0.0', () => {
-    console.log(`NotebookQ Server listening on http://0.0.0.0:${PORT}`);
+    console.log(`NotebookQ Server listening on http://127.0.0.1:${PORT}`);
   });
 }
 
