@@ -84,9 +84,6 @@ OPENAI_API_KEY=""
 # Ollama Base URL (Local inference endpoint)
 OLLAMA_BASE_URL="http://127.0.0.1:11434"
 
-# Host Application URL
-APP_URL=""
-```
 
 *Note: In addition to the `.env` file, users can also configure or override keys and model names directly inside the app using the **Model Settings** dialog in the top header.*
 
